@@ -11,7 +11,6 @@
 #include "usb/kbd_dan.h"
 #include "usb/kbd_deu.h"
 #include "usb/kbd_eng.h"
-#include "kbd_eng_dvorak.h"
 #include "usb/kbd_pol.h"
 #include "usb/kbd_swe.h"
 #include "pico/stdio/driver.h"
